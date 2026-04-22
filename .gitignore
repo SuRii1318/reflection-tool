@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets (like API keys, if you ever add them)
+.env
+
+# IDE settings (like VS Code workspace files)
+.vscode/
+.idea/
